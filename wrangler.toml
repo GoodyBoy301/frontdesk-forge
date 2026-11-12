@@ -1,6 +1,6 @@
 name = "frontdesk-forge"
 main = "frontdesk-proxy.js"
-compatibility_date = "2026-10-29"
+compatibility_date = "2026-04-17"
 
 [vars]
 FRONTDESK_ORIGIN = "https://starter.pv.pro"
